@@ -1,0 +1,5 @@
+0001;Juan;García García;12345678Z;Contabilidad;3
+0003;Pedro;Blanco Martínez;35651188S;Compras;1
+0004;Carlos;López García;78971211K;Almacén;5
+0006;Manuel;González Ruiz;12772298F;Compras;2
+0018;Daniel;García Gómez;11742988Q;Contabilidad;1
